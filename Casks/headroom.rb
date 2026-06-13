@@ -1,6 +1,6 @@
 cask "headroom" do
-  version "0.1.2"
-  sha256 "4ba37de7a5f38445df8105c5c7c156914748e2cba0b6c68b7ae35a2ea57a1509"
+  version "0.1.3"
+  sha256 "532e869cb4e67126255f1b6e3c8b15b0ee06d0325e6cf7840f9880cbcbf82a0d"
 
   url "https://github.com/GentaAmeku/headroom/releases/download/v#{version}/Headroom_#{version}_universal.dmg"
   name "Headroom"
